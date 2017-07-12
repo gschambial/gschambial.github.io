@@ -4,11 +4,11 @@ I am a technology enthusiast, always eager to learn new technologies especially 
 ## My primary skillset includes:
  
 -- Spring Framework<br/>
--- Spring Boot__
--- Spring Security__
--- JavaScript__
--- JQuery__
--- Hibernate__
--- Spring Data JPA__
--- PostgreSQL__
+-- Spring Boot<br/>
+-- Spring Security<br/>
+-- JavaScript<br/>
+-- JQuery<br/>
+-- Hibernate<br/>
+-- Spring Data JPA<br/>
+-- PostgreSQL<br/>
 
