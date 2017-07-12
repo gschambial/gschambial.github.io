@@ -3,7 +3,7 @@ I am a technology enthusiast, always eager to learn new technologies especially 
 
 ## My primary skillset includes:
  
--- Spring Framework__
+-- Spring Framework<br/>
 -- Spring Boot__
 -- Spring Security__
 -- JavaScript__
