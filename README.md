@@ -4,7 +4,6 @@ I am a technology enthusiast, always eager to learn new technologies especially 
 
 ## Profile Summary
 
-* Technology enthusiast, always eager to learn modern technologies especially related to Java, and Web ecosystem.
 * Good at grasping modern technologies and understanding their architectural need to fill voids in the projects’ framework.
 * Practical knowledge of Data Structures and algorithms.
 * Hands on experience of implementing Spring Security, Reverse Proxy Server configuration using Nginx, SSL configurations for different web servers.
